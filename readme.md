@@ -1,3 +1,4 @@
+## THIS FORK WILL FOCUS ON MAKE THE APP COMMUNITY BASED SO ANYONE CAN CREATE ACCOUNT AND START POSTING. -- THIS FORK WILL ALSO BE FOCUSING ON THE ENTERTAINMENT BLOGING.
 <p align="center">
     <a href="https://trycanvas.app">
         <img src=".github/docs/header.png" alt="Homepage for trycanvas.app">
